@@ -256,6 +256,8 @@ Backwards compatible changes
 
 * Added support for GHC 8.2.2.
 
+* New module `Data.Word` for new builtin type `Agda.Builtin.Word.Word64`.
+
 * New modules `Data.Table`, `Data.Table.Base`,
   `Data.Table.Relation.Equality` and `Data.Table.Properties`. A `Table` is a
   fixed-length collection of objects similar to a `Vec` from `Data.Vec`, but
